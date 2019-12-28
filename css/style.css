@@ -5,5 +5,27 @@
     margin-left: auto;
     margin-right: auto;
     display: block;
+    border: solid 5px black;
     }
-    
+
+    #title{
+    text-align: center;
+    background-color: Grey;
+}
+    #img-caption{
+        text-align: center;
+    }
+    #tribute-info
+    {
+        text-align: center;
+    }
+
+    #img-div{
+        background-color:white;
+        padding: 10px;
+        border: black 5px solid ;
+
+    }
+    #main{
+        background-color: grey;
+    }
